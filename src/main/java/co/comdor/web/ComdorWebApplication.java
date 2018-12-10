@@ -1,4 +1,4 @@
-package com.amihaiemil.web.comdorweb;
+package co.comdor.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
